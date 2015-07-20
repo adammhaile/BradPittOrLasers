@@ -1,0 +1,7 @@
+.ui_input {
+	margin-bottom: 0.4em;
+}
+
+.card>.content>.description {
+	min-height: 300px !important;
+}
