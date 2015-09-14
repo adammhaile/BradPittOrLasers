@@ -1,7 +1,27 @@
 .ui_input {
 	margin-bottom: 0.4em;
 }
-
+.card {
+	height: 300px !important;
+	/*max-width: 300px !important;*/
+	vertical-align: middle;
+}
+.option_header {
+	display: inline-block;
+	vertical-align: middle;
+}
+.card>.content {
+	height: 100% !important;
+}
 .card>.content>.description {
+
 	min-height: 300px !important;
+	/*max-width: 300px !important;*/
+}
+
+
+
+
+.container {
+	padding: 2rem !important;
 }
